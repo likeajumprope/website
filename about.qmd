@@ -3,3 +3,10 @@ title: "About"
 ---
 
 About this site
+
+[this is my CV](text.pdf)
+
+```{python}
+import pandas as pd
+print("hello")
+```
